@@ -32,6 +32,8 @@
 ★★★★  | [iTranslate Voice] | 翻译利器 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
 ★★★★  | [Launch Center Pro] | 快速启动&书签 | $4.99 | [#](http://www.macstories.net/reviews/launch-center-pro-2-0-review/)
 ★★★★  | [Clear+] | 轻量级 To-Do List | $4.99 | [#](http://www.macworld.com/article/2048920/clear-for-ios-7-review-slick-to-do-list-app-gets-bigger-slicker.html)
+★★★★  | [Drafts 4] | 文字生产力 | $9.99 | [#](http://www.macstories.net/ios/drafts-4-1-and-merging-notes/)
+★★★★  | [MoneyWiz 2] | 记账软件 | $4.99 | [#](http://sspai.com/28132)
 ★★★☆  | [Todo] | 重量级 To-Do GTD | $4.99 | [#](http://www.imore.com/todo-7-ios-review-brand-new-look-and-great-new-experience)
 ★★★☆  | [Reeder] | RSS阅读器 | $4.99 | [#](http://www.macstories.net/reviews/reeder-2-review-2/)
 ★★★☆  | [Omnifocus] | 还是那个GTD | $19.99 | [#](http://www.imore.com/omnifocus-2-iphone-review-completely-redesigned-ios-7-easier-use-ever)
@@ -77,11 +79,20 @@
 ★★★   | [欧路词典 Pro] | 翻译软件，支持离线词库，屏幕取词 | ￥18 | [#](http://www.eudic.net/eudic/mac_dictionary.aspx)
 ★★★   | [Mercury Browser Pro] | 浏览器 | $0.99 | [#](http://www.macworld.com/product/377687/mercury-web-browser-pro-the-most-advanced-brow.html)
 ★★★   | [Air Video] | 移动端播放电脑上的视频流，无需拷贝 | $2.99 | [#](http://www.tuaw.com/2013/11/05/how-a-pc-and-air-video-hd-turned-my-ipad-into-the-ultimate-enter/)
+★★★   | [MacID](https://itunes.apple.com/app/id948478740?mt=8&ls=1) | 手机解锁 Mac, iOS 和 macOS 间剪贴板，itunes 简单控制 | $3.99 | [#](https://itunes.apple.com/app/id948478740?mt=8&ls=1)
 
 ## 2. 付费 Cydia 插件篇
 
-整理中...
 
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | [iFile]()| iOS 越狱后强大的系统文件管理器  | $4.00 | 
+★★★★★  | [AnyDrop]() | iOS 越狱后强大的 AirDrop 插件  | $2.49 | 
+★★★★  | [Auxo 3]() | iOS 越狱后强大的后台任务管理器  | $2.99 | 
+★★★★★  | [DataMeter]() | iOS 越狱后强大的流量管理器  | $1.99 | 
+★★★  | [Retina-Pad]() | 让你的 iPhone 应用在 iPad 上以 iPad 原生分辨率运行 | $2.99 | 
+★★★★★  | [Kodi-iOS（原Xbmc）](http://kodi.tv/download/) | iOS 越狱后强大的视频播放器  | Free |
+★★★★★  | [Nitrous]() | 加速你的浏览器等 Javascript 运行速度 | $0.99 | 
 ## 购买建议
 
 * 很多 App 会在大型节日、纪念日时限免(限时免费下载)
@@ -141,7 +152,7 @@
 
 Released under [MIT] LICENSE
 
-[<< 查看总目录]: https://github.com/hzlzh/Best-App
+[<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
@@ -149,6 +160,8 @@ Released under [MIT] LICENSE
 
 [Tweetbot]: http://tapbots.com/software/tweetbot/
 [Afterlight]: http://afterlight.us/
+[Drafts 4]: http://agiletortoise.com/drafts/
+[MoneyWiz 2]: http://moneywizapp.com/iphone/
 [Camera+]: http://taptaptap.com/camera+
 [Sleep Cycle]: http://www.sleepcycle.com/
 [1Password]: https://agilebits.com/

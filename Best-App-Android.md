@@ -28,13 +28,15 @@
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
+★★★★  | [AirDroid](https://www.airdroid.com/) | 通过PC浏览器来管理Android手机的应用 | |[#](http://news.tongbu.com/news/84127.html)|
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  | 
 
 #### 2.2 生活类
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  | 
+★★★★☆ | [Spendee](http://www.spendeeapp.com/) | 消费记录软件 | Free | [#](http://www.ifanr.com/app/528637)|
+★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 |  | 
 
 ## 3. 平板应用篇
 
@@ -76,7 +78,7 @@
 
 Released under [MIT] LICENSE
 
-[<< 查看总目录]: https://github.com/hzlzh/Best-App
+[<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
 [反馈]: https://github.com/hzlzh/Best-App/issues/new
